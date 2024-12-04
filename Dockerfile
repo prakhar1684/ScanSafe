@@ -39,6 +39,6 @@ RUN apt-get -yq install \
     apt-get clean && \
     rm -rf /var/lib/{apt,dpkg,cache,log}
 
-ADD rapidscan.py /usr/local/bin/rapidscan.py
+ADD scansafe.py /usr/local/bin/scansafe.py
 WORKDIR /app
-ENTRYPOINT ["/usr/local/bin/rapidscan.py"]
+ENTRYPOINT ["/usr/local/bin/scansafe.py"]

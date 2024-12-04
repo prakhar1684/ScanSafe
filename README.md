@@ -46,7 +46,7 @@ _**ScanSafe has been ported to Python3 i.e. v1.2**. The Python2.7 codebase is av
 ## Usage 
  `python3 scansafe.py example.com`
 
-https://user-images.githubusercontent.com/6489729/138737524-9c4dc567-ec78-40b4-9a7b-8ff52d5dc98b.mp4
+https://github.com/user-attachments/assets/e7b244d7-b532-4ab6-a8ed-749ecfd97e5d
 
 
 ## Installation
@@ -61,9 +61,3 @@ python3 -m pip install .
 
 ### Docker Support
 Under development.
-
-## Contribution
-- Create your feature branch: `git checkout -b my-new-feature`
-- Commit your changes: `git commit -am 'Add some feature'`
-- Push to the branch: `git push origin my-new-feature`
-- Submit a pull request.
