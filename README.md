@@ -1,4 +1,4 @@
-# :red_square: ScanSafe  - _The Multi-Tool Web Vulnerability Scanner_
+# :red_square: ScanSafe  - _The Versatile Web Vulnerability Scanner_
 _**ScanSafe has been ported to Python3 i.e. v1.2**. The Python2.7 codebase is available on v1.1 releases section. Download and use it if you still haven't upgraded to Python 3. Kindly note that the v1.1 (Python2.7) will not be enhanced further._
 
 ## Evolution:
@@ -54,8 +54,8 @@ https://github.com/user-attachments/assets/e7b244d7-b532-4ab6-a8ed-749ecfd97e5d
 Alternatively, your can install the `scansafe` python module with `pip`. This will create a link for `scansafe` in your PATH. 
 
 ```
-git clone https://github.com/skavngr/scansafe.git /opt/
-cd /opt/scansafe
+https://github.com/prakhar1684/ScanSafe.git
+cd scansafe
 python3 -m pip install .
 ```
 
