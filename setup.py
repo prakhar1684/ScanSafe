@@ -10,14 +10,14 @@ HERE = pathlib.Path(__file__).parent
 README = (HERE / "README.md").read_text()
 
 setup(
-    name                =   "rapidscan",
+    name                =   "ScanSafe",
     version             =   '1.2',
     description         =   "The Multi-Tool Web Vulnerability Scanner.",
     long_description    =   README,
     long_description_content_type = "text/markdown",
-    url                 =   "https://github.com/skavngr/rapidscan",
-    author              =   "sh4nx0r",
-    py_modules          =   ['rapidscan',],
+    url                 =   "https://github.com/prakhar1684/ScanSafe",
+    author              =   "prakhar",
+    py_modules          =   ['scansafe',],
     install_requires    =   [],
     python_requires=">=3.6",
 )
